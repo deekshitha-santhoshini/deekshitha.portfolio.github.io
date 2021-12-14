@@ -184,7 +184,7 @@ h5 {
     background-attachment: fixed;
     max-height: 100vh;
     height: 100vh;
-    background-image: url("./images/img/main.jpg");
+    background-color: #000;
     display: flex;
     justify-content: center;
     align-items: center;
